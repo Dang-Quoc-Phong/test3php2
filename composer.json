@@ -1,0 +1,19 @@
+{
+    "name": "phong/test3",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dangphong2",
+            "email": "phongdqph3977@fpt.edu.vn"
+        }
+    ],
+    "require": {
+        "eftec/bladeone": "^4.11",
+        "phroute/phroute": "^2.2",
+        "illuminate/events": "^10.45"
+    }
+}
